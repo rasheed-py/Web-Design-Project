@@ -1,0 +1,9 @@
+<!ELEMENT packages (package+)>
+<!ELEMENT package (name, destination, duration, price, includes, availability)>
+<!ATTLIST package id ID #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT destination (#PCDATA)>
+<!ELEMENT duration (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT includes (#PCDATA)>
+<!ELEMENT availability (#PCDATA)>

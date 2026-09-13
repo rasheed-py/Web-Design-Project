@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="packages.xsl"?>
+<!DOCTYPE packages SYSTEM "packages.dtd">
+
+<packages>
+
+    <package id="P001">
+        <name>Paris Romance Escape</name>
+        <destination>Paris, France</destination>
+        <duration>5 Nights</duration>
+        <price>&#163;2,499</price>
+        <includes>Flight, 5-Star Hotel, City Tour, Seine Dinner Cruise</includes>
+        <availability>Available</availability>
+    </package>
+
+    <package id="P002">
+        <name>Dubai Luxury Getaway</name>
+        <destination>Dubai, UAE</destination>
+        <duration>6 Nights</duration>
+        <price>&#163;3,199</price>
+        <includes>Flight, Burj Al Arab Stay, Desert Safari, Yacht Trip</includes>
+        <availability>Available</availability>
+    </package>
+
+    <package id="P003">
+        <name>Maldives Serenity Retreat</name>
+        <destination>Maldives</destination>
+        <duration>7 Nights</duration>
+        <price>&#163;4,899</price>
+        <includes>Flight, Overwater Villa, Snorkelling, Spa Package</includes>
+        <availability>Available</availability>
+    </package>
+
+    <package id="P004">
+        <name>Paris &amp; Dubai Twin Escape</name>
+        <destination>Paris &amp; Dubai</destination>
+        <duration>10 Nights</duration>
+        <price>&#163;5,299</price>
+        <includes>Flights, 5-Star Hotels, All Tours Included</includes>
+        <availability>Limited</availability>
+    </package>
+
+    <package id="P005">
+        <name>Ultimate Grand Tour</name>
+        <destination>Paris, Dubai &amp; Maldives</destination>
+        <duration>18 Nights</duration>
+        <price>&#163;9,999</price>
+        <includes>All Flights, Luxury Hotels, Private Transfers, Full Concierge</includes>
+        <availability>Limited</availability>
+    </package>
+
+</packages>
